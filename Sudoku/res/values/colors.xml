@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?> <resources>
 	<color name="background">#3500ffff</color> 
+	<color name="background_land">#1111ffff</color>
 </resources>
